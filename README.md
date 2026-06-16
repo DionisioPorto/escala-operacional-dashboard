@@ -1,0 +1,1 @@
+# escala-operacional-dashboard
